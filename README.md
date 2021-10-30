@@ -32,3 +32,4 @@
 5. https://scikit-learn.org/stable/modules/generated/sklearn.naive_bayes.GaussianNB.html
 6. https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html
 7. https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html
+8. https://www.pyimagesearch.com/2021/04/12/opencv-haar-cascades/
