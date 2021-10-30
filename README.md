@@ -33,3 +33,5 @@
 6. https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html
 7. https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html
 8. https://www.pyimagesearch.com/2021/04/12/opencv-haar-cascades/
+9. https://scikit-image.org/docs/dev/api/skimage.util.html#skimage.util.random_noise
+10.https://towardsdatascience.com/data-augmentation-techniques-in-python-f216ef5eed69
