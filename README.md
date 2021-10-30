@@ -11,9 +11,10 @@
 3. Numpy
 4. Pandas
 5. Scipy
-6. Matplotlib
-7. Seaborn
-8. Os
+6. Skimage
+7. Matplotlib
+8. Seaborn
+9. Os
 
 ## Results
 
