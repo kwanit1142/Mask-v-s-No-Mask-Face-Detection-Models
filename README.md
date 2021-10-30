@@ -24,3 +24,11 @@
 ![Screenshot (589)](https://user-images.githubusercontent.com/54277039/139411091-67302bc3-aafc-4303-8ab9-57807ded75b5.png)
 
 ## References
+
+1. https://scikit-learn.org/stable/modules/generated/sklearn.neural_network.MLPClassifier.html
+2. https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html
+3. https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html
+4. https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html
+5. https://scikit-learn.org/stable/modules/generated/sklearn.naive_bayes.GaussianNB.html
+6. https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html
+7. https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html
