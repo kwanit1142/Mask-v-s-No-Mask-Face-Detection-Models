@@ -1,5 +1,9 @@
 # Mask v/s No-Mask Face Detection using Machine Learning Models
 
+Face recognition is a fascinating application in the field of image recognition. However, face images with masks create hindrance .The goal of this project is to classify images of people into two classes: Mask and No-Mask based upon whether they wear a mask in the image or not. However, there is a variety in the shape, design, orientation and appearance of masks which makes it challenging. The mask vs. no mask recognition can help in applications like face-recognition based entry systems, detection of suspicious faces through security cameras, etc.
+
+![Screenshot (1288)](https://user-images.githubusercontent.com/54277039/174299591-304cc9af-90fd-44db-bf78-4e20166dddab.png)
+
 ## About
 
 ![Screenshot (587)](https://user-images.githubusercontent.com/54277039/139411055-e4d385d0-97ba-43d9-b0b7-835e78e17648.png)
